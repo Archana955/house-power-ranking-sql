@@ -1,0 +1,11 @@
+house_id,house_name,sum_influence,sum_military_strength,sum_wealth,alive_count,alliances_total,projected_power_score,rank
+10,Highport,415,345,295,8,13,515,1
+9,Stonevale,385,325,275,8,13,490,2
+8,Dawnridge,355,305,255,8,13,465,3
+7,Greyfen,325,285,235,8,13,440,4
+6,Blackmarsh,295,265,215,8,13,415,5
+5,Sunward,265,245,195,8,13,390,6
+4,Riverhold,235,225,175,8,13,365,7
+3,Northwatch,205,205,155,8,13,340,8
+2,Stormfell,175,185,135,8,13,315,9
+1,Ironcrest,145,165,125,8,13,292,10
